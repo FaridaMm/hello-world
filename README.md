@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+
+I'm Farida, I like Linux, Python and AWS.
